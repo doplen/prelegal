@@ -1,0 +1,76 @@
+{
+  "templates": [
+    {
+      "name": "Mutual Non-Disclosure Agreement",
+      "description": "Common Paper standard mutual NDA covering confidentiality obligations between two parties evaluating a business relationship.",
+      "filename": "templates/Mutual-NDA.md",
+      "source": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement - Cover Page",
+      "description": "Cover page that pairs with the Mutual NDA Standard Terms; captures the parties, purpose, term and governing law.",
+      "filename": "templates/Mutual-NDA-coverpage.md",
+      "source": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Cloud Service Agreement",
+      "description": "Common Paper standard Cloud Service Agreement (CSA) governing access to a SaaS / cloud product, including support, data, payment, warranty and liability terms.",
+      "filename": "templates/CSA.md",
+      "source": "https://github.com/CommonPaper/CSA"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Common Paper standard Design Partner Agreement for early-access programs where a design partner gives feedback in exchange for product access.",
+      "filename": "templates/design-partner-agreement.md",
+      "source": "https://github.com/CommonPaper/Design-Partner-Agreement"
+    },
+    {
+      "name": "Service Level Agreement",
+      "description": "Common Paper Service Level Agreement (SLA) defining target uptime, response time, service credits and remedies for a cloud service.",
+      "filename": "templates/sla.md",
+      "source": "https://github.com/CommonPaper/SLA"
+    },
+    {
+      "name": "Professional Services Agreement",
+      "description": "Common Paper standard Professional Services Agreement (PSA) covering scoped services, deliverables, change orders, IP ownership, payment and indemnification.",
+      "filename": "templates/psa.md",
+      "source": "https://github.com/CommonPaper/PSA"
+    },
+    {
+      "name": "Data Processing Agreement",
+      "description": "Common Paper Data Processing Agreement (DPA) for GDPR / UK GDPR compliance, including SCCs, subprocessor management and security incident response.",
+      "filename": "templates/DPA.md",
+      "source": "https://github.com/CommonPaper/DPA"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "Common Paper standard Software License Agreement granting a limited license to install and use software, with payment, warranty and IP terms.",
+      "filename": "templates/Software-License-Agreement.md",
+      "source": "https://github.com/CommonPaper/Software-License-Agreement"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Common Paper standard Partnership Agreement covering co-marketing or joint-business obligations, trademark licensing and revenue arrangements between two companies.",
+      "filename": "templates/Partnership-Agreement.md",
+      "source": "https://github.com/CommonPaper/Partnership-Agreement"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Common Paper standard Pilot Agreement granting limited access to a product for evaluation purposes prior to a longer-term commercial agreement.",
+      "filename": "templates/Pilot-Agreement.md",
+      "source": "https://github.com/CommonPaper/Pilot-Agreement"
+    },
+    {
+      "name": "Business Associate Agreement",
+      "description": "Common Paper standard HIPAA Business Associate Agreement (BAA) governing the handling of Protected Health Information by a service provider.",
+      "filename": "templates/BAA.md",
+      "source": "https://github.com/CommonPaper/BAA"
+    },
+    {
+      "name": "AI Addendum",
+      "description": "Common Paper standard AI Addendum supplementing a base agreement with terms for AI / ML services, covering inputs, outputs, model training and IP ownership.",
+      "filename": "templates/AI-Addendum.md",
+      "source": "https://github.com/CommonPaper/AI-Addendum"
+    }
+  ]
+}
